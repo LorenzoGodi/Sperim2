@@ -1,4 +1,4 @@
-# Sperimentazioni di Fisica 1
+# Sperimentazioni di Fisica 2
 Codice e dati delle esperienze di laboratorio di Sperimentazioni di Fisica 2
 
 ## Esperienze 
