@@ -1,3 +1,5 @@
+# esperienza 2
+# misura focale lente divergente
 # tutte le misure in millimetri (mm)
 h	sx	dx	op
 380	3.64	19.13	lorenzo

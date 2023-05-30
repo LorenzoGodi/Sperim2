@@ -1,0 +1,14 @@
+# esperienza 2
+# misura focale lente divergente
+# tutte le misure in millimetri (mm)
+obj	val	err
+D	10	0.01
+D1_D	10	0.01
+D4_D1	2.5	0.01
+D4_D2	14	0.01
+# 
+n_lente	22	
+dr	5.7	0
+sorgente	135.5	0.25
+collimatore	212.5	0.25
+lente	320	0.25
