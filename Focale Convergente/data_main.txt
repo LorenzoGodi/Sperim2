@@ -1,0 +1,14 @@
+# esperienza 1
+# misura focale lente convergente
+# tutte le misure in millimetri (mm)
+obj	val	err
+d	4	0.01
+D1_D	10	0.01
+D4_D1	2.5	0.01
+D4_D2	14	0.01
+#
+n_lente	8	
+dr	2.6	0
+vv	10.10	0
+sorgente	223.5	0.25
+lente	275	0.25

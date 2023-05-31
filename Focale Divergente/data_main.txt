@@ -2,7 +2,7 @@
 # misura focale lente divergente
 # tutte le misure in millimetri (mm)
 obj	val	err
-D	10	0.01
+d	4	0.01
 D1_D	10	0.01
 D4_D1	2.5	0.01
 D4_D2	14	0.01
