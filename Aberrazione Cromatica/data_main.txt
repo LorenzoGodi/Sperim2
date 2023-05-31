@@ -1,0 +1,11 @@
+# esperienza 3
+# misura aberrazione cromatica
+# tutte le misure in millimetri (mm)
+obj	val	err
+D4_D1	2.5	0.01
+D4_D2	14	0.01
+#
+n_lente	8	
+dr	2.6	0
+vv	10.10	0
+sorgente	214.5	2.5
