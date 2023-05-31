@@ -1,0 +1,12 @@
+# esperienza 4
+# misura aberrazione sferica di una lente convergebnte
+# tutte le misure in millimetri (mm)
+obj	val	err
+D4_D1	2.5	0.01
+D4_D2	14	0.01
+#
+n_lente	8	
+dr	2.6	0
+vv	10.10	0
+i_rifrazione	1.517
+focale	53.1	1.9

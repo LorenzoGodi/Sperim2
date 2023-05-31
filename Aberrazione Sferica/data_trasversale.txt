@@ -1,0 +1,14 @@
+# esperienza 4
+# misura aberrazione sferica lente convergente
+# tutte le misure in millimetri (mm)
+sx	dx	op
+8.60	12.70	fabiana
+8.71	12.75	fabiana
+8.80	12.72	fabiana
+8.80	12.67	fabiana
+8.68	12.63	fabiana
+8.77	12.75	lorenzo
+8.68	12.69	lorenzo
+8.71	12.80	lorenzo
+8.57	12.72	lorenzo
+8.77	12.78	lorenzo

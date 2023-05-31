@@ -1,0 +1,14 @@
+# esperienza 4
+# misura aberrazione sferica lente convergente
+# tutte le misure in millimetri (mm)
+parassiali_min	parassiali_max	marginali_min	marginali_max	op
+11.35	14.18	5.90	6.24	fabiana
+11.67	14.25	5.90	6.14	fabiana
+11.20	14.15	5.90	6.30	fabiana
+11.40	14.10	5.80	6.34	fabiana
+11.50	14.20	5.80	6.15	fabiana
+12.09	13.43	5.96	6.09	lorenzo
+11.98	13.20	5.97	6.22	lorenzo
+11.87	12.98	5.91	6.11	lorenzo
+11.85	13.35	5.95	6.21	lorenzo
+12.22	13.50	5.98	6.06	lorenzo
